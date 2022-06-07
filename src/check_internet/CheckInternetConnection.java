@@ -1,6 +1,6 @@
-package CheckInternetConnection;
+package check_internet;
 
-public class checkInternet {
+public class CheckInternetConnection {
 
     public static void main(String[] args) throws Exception {
         Process process = java.lang.Runtime.getRuntime().exec("ping ya.ru");
