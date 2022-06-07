@@ -1,6 +1,4 @@
-package checkInternetConnection;
-
-import java.io.IOException;
+package CheckInternetConnection;
 
 public class checkInternet {
 
